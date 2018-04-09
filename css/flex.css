@@ -1,0 +1,10 @@
+#grande {
+    background-color: blue ;
+    border: 3px solid black ;
+}
+.interna{
+    font-size: 40 pt;
+    color: white ;
+    background-color: purple ;
+    border: 2px solid red ;
+}
